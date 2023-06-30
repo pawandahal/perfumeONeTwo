@@ -1,0 +1,24 @@
+.full-width-image {
+    width: 90vw;
+    height: 50vh;
+    margin-left: 80px;
+    object-fit: cover;
+}
+
+
+
+/* Example styles for pagination */
+
+
+  .swiper-pagination-bullet-active {
+    background-color: #e10f0f;
+  }
+  
+/* Example styles for prev/next buttons */
+.swiper-button-prev,
+.swiper-button-next {
+ 
+  color: #e75454;
+}
+
+
